@@ -16,6 +16,8 @@ public class FirstProgram {
 		File file = new File("C:\\Program Files\\Notepad++\\readme.txt");
 		Scanner scanner = new Scanner(file);
 		System.out.println(scanner.nextLine());
+		System.out.println(scanner.nextLine());
+
 	}
 
 }
